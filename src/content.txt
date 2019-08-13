@@ -1,0 +1,4 @@
+Python is one of those rare languages which can claim to be both simple and powerful.
+You will find yourself pleasantly surprised to see how easy it is to
+concentrate on the solution to the problem rather than
+the syntax and structure of the language you are programming in.python coding 
